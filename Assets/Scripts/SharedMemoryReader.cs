@@ -6,7 +6,7 @@ using UnityEngine;
 public class SharedMemoryReader : MonoBehaviour
 {
     // name of the shared memory
-    [SerializeField] string sharedMemoryName = "MfaSharedMemoryFace";
+    [SerializeField] string sharedMemoryName = "MocapForAllFaceRaw";
 
     // size of the data from shared memory in bytes
     [SerializeField] int dataSizeInBytes = 468 * 3 * 4;
