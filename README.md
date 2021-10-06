@@ -1,6 +1,6 @@
 # MocapForAll Shared Memory Plugin for Unity
 
-Read data from the shared memory written by MocapForall.
+Unity plugin and sample project to read data from the shared memory written by MocapForall.
 
 ## How to use
 
