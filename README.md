@@ -4,6 +4,12 @@ Unity sample project to read data from the shared memory written by MocapForAll.
 
 ## How to use
 
-Open "SharedMemorySampleScene".
+### Settings in MocapForAll
 
-Click "Play".
+- turn on "Settings > Data export > Shared Memory > Export to shared memory"
+
+### Unity
+
+- Open project
+- Open /Assets/Scenes/SharedMemorySampleScene.unity
+- Click "Play".
