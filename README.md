@@ -2,6 +2,14 @@
 
 Unity sample project to read data from the shared memory written by MocapForAll.
 
+## Environment
+
+- Windows 10 64bit
+- Unity
+  - 2019.4.36f1
+  - 2020.3.30f1
+  - 2021.2.13f1
+
 ## How to use
 
 ### Settings in MocapForAll
